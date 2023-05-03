@@ -2,6 +2,7 @@
   "smoothies": [
     {
       "id": 1,
+      "trending":"trending",
       "category": "Frutti",
       "isNew": "true",
       "name": "Peach Blueberry Smoothie",
@@ -112,6 +113,7 @@
     {
       "id": 6,
       "category": "Frutti",
+      "trending":"trending",
       "name": "Tutti-Frutti Smoothie",
       "description": "A splash of orange juice infuses citrus into this healthy and refreshing snack.",
       "price": 450,
