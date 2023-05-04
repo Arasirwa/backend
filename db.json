@@ -209,6 +209,22 @@
         "4.serve when cold and enjoy!"
       ],
       "rating": 3.9
+    },
+    {
+         "id": 11,
+      "category": "Frutti",
+      "name": "Pineapple Passion Smoothie",
+      "description": "This decadently thick smoothie recipe will satisfy your cravings for an ice cream cone. Plus, pineapple contains bromelain, an enzyme that helps break down protein and may help reduce bloating.",
+      "price": 30,
+      "image": "https://hips.hearstapps.com/hmg-prod/images/tropical-fruit-juice-or-smoothie-in-bottle-royalty-free-image-1603585526.jpg?crop=1.00xw:0.835xh;0,0.0613xh&resize=980:*",
+      "image2": "https://delightfulplate.com/wp-content/uploads/2019/01/Tropical-Pineapple-Mango-Smoothie-768x1152.jpg",
+      "recipe": [
+        "1.Gather the ingredients: 1 cup of low-fat or light vanilla yogurt, six ice cubes, and 1 cup of pineapple chunks.",
+        "2.Place 1 cup of low-fat or light vanilla yogurt, six ice cubes, and 1 cup of pineapple chunks into a blender.",
+        "3.Pulse the mixture until it is smooth. If necessary, stop the blender and stir the ingredients to make sure they are evenly blended.",
+        "4.serve when cold and enjoy!"
+      ],
+      "rating": 3.9
     }
   ]
 }
