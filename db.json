@@ -1,123 +1,58 @@
 {
-  "smoothies": [
+  "blogs": [
     {
-      "id": 1,
-      "trending": "trending",
-      "category": "Frutti",
-      "isNew": "true",
-      "name": "Peach Blueberry Smoothie",
-      "description": "This sweet blend will have you feeling like it’s summertime in the dead of winter with blueberries and peaches. Plus, you’ll get your daily dose of greens with nutrient-rich kale.",
-      "price": 90,
-      "image": "https://hips.hearstapps.com/hmg-prod/images/two-glasses-of-blueberry-smoothie-and-blueberries-royalty-free-image-1657807450.jpg?crop=0.53308xw:1xh;center,top&resize=980:*",
-      "image2": "https://blueberry.org/wp-content/uploads/2021/04/Pumpkin-Blueberry-Smoothie-047_940x1409-320x420.jpg",
-      "recipe": "To make a delicious and healthy smoothie, start by measuring out 1 cup of chilled almond or vanilla soy milk and add it to the blender. Next, add 4 slices of fresh or frozen peaches (about 1/2 cup) and 1/4 cup of blueberries to the blender. To make it even healthier, add a handful of kale, which is packed with nutrients. To give it a flavorful kick, add 1/4 tsp. of ground cinnamon to the blender. Blend all the ingredients to the desired smoothness, making sure everything is well mixed. Finally, pour your smoothie into a glass and enjoy! This smoothie is a perfect way to start your day, as it provides you with a variety of nutrients and vitamins that will keep you energized and satisfied throughout the day.",
-      "rating": 4.5
+      "title": "Opening Party!",
+      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).\n\n\nWhere does it come from?\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n\nWhere can I get some?\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+      "author": "yoshi",
+      "id": "2"
     },
     {
-      "id": 2,
-      "category": "Jungle",
-      "name": "Lean, Mean, Green Machine",
-      "description": "If you’re looking for a post-workout recovery drink, this smoothie is it. Protein powder helps replenish the energy you burned, sweet banana and kiwi provide potassium and vitamin C, while coconut water helps you rehydrate.",
-      "price": 60,
-      "image": "https://hips.hearstapps.com/hmg-prod/images/screen-shot-2020-01-01-at-1-55-17-pm-1577904910.png?crop=0.801xw:1.00xh;0.128xw,0&resize=980:*",
-      "image2": "https://www.walderwellness.com/wp-content/uploads/2020/05/Simple-Creamy-Green-Smoothie-Recipe-Walder-Wellness-4-683x1024.jpg",
-      "recipe": "To make a healthy and tasty smoothie, start by gathering the ingredients: 1 medium banana, 1 kiwi, 1 cup unsweetened almond milk, 1 cup spinach, 1 scoop vanilla whey protein powder, and 1/2 cup coconut water. Peel the kiwi and cut it into pieces, then cut the medium banana into pieces as well. Add the banana and kiwi pieces to the blender, followed by 1 cup unsweetened almond milk, 1 cup spinach, 1 scoop vanilla whey protein powder, and 1/2 cup coconut water. Put the lid on the blender and pulse until the ingredients are creamy and smooth. If the smoothie is too thick, add more coconut water or unsweetened almond milk and pulse again until the desired consistency is reached. Pour the smoothie into a glass and enjoy the refreshing taste and nutritional benefits of this delicious smoothie. This smoothie is packed with protein, fiber, and vitamins that will keep you energized and satisfied throughout the day.",
-      "rating": 4.0
+      "title": "Exploring the Cosmos",
+      "body": "The cosmos, with its vastness and mystery, has always captivated the human imagination. As we gaze into the night sky, we are confronted with questions about the origin of the universe, the nature of dark matter, and the possibility of extraterrestrial life. Scientists and astronomers around the world dedicate their lives to unraveling these cosmic mysteries, using advanced telescopes and space probes to explore the far reaches of our galaxy and beyond.",
+      "author": "astronomylover",
+      "id": "3"
     },
     {
-      "id": 3,
-      "category": "Frutti",
-      "isNew": "true",
-      "name": "Cranberry Banana Smoothie",
-      "description": "The autumn berry is the star of this satisfying, fiber-rich treat. Banana adds body and sweetness, almond milk keeps the calorie count low, and maple syrup offers a seasonal sweetness.",
-      "price": 85,
-      "image": "https://hips.hearstapps.com/hmg-prod/images/cranberry-banana-smoothie-recipe-prevention-1601494971.jpg?crop=0.801xw:1.00xh;0.122xw,0&resize=980:*",
-      "image2": "https://www.foodbanjo.com/wp-content/uploads/2021/11/cranberry-smoothie-2031-768x1152.jpg",
-      "recipe": "To make a delicious and refreshing cranberry smoothie, start by gathering the ingredients: 1 cup frozen cranberries, 1 cup unsweetened almond milk, 1 banana, 1 Tbsp. maple syrup, and 1/2 cup ice cubes. Peel the banana and cut it into chunks, then add the frozen cranberries to the blender, followed by the unsweetened almond milk, banana chunks, 1 Tbsp. maple syrup, and 1/2 cup of ice cubes. Blend the ingredients until you reach the desired thickness. Pour the smoothie into a glass and enjoy the tangy yet sweet taste of this healthy smoothie. The cranberries are rich in antioxidants and vitamins, while the banana provides a good source of potassium and fiber. The unsweetened almond milk adds creaminess without any added sugar, and the maple syrup gives a hint of sweetness that balances the tanginess of the cranberries. This smoothie is perfect as a breakfast or snack and is an excellent way to start your day with a nutritious boost.",
-      "rating": 4.8
+      "title": "The Art of Cooking",
+      "body": "Cooking is not just a necessity; it is an art form that brings people together through the joy of shared meals. From the sizzle of a hot pan to the aromatic blend of spices, every step in the kitchen is a creative endeavor. Whether you're a novice or a seasoned chef, the kitchen is a canvas where flavors and textures come together to create culinary masterpieces. So, let's embark on a journey through the world of gastronomy, exploring recipes, techniques, and the cultural significance of food.",
+      "author": "foodieexplorer",
+      "id": "4"
     },
     {
-      "id": 4,
-      "category": "Protein",
-      "fame": "popular",
-      "name": "Mocha Protein Shake",
-      "description": "This buzzy breakfast tastes like a milkshake. The secret ingredient? Walnuts. These nuts are high in protein and omega-3 fatty acids—healthy fats known to help fight inflammation and protect your heart. A dose of black coffee makes this the perfect morning shake.",
-      "price": 90,
-      "image": "https://hips.hearstapps.com/hmg-prod/images/screen-shot-2020-01-01-at-1-50-59-pm-1577904641.png?crop=0.801xw:1.00xh;0.0867xw,0&resize=980:*",
-      "image2": "https://skinnyfitalicious.com/wp-content/uploads/2015/06/chocolate-mocha-protein-smoothie-img1.jpg",
-      "recipe": "To make a rich and indulgent coffee smoothie, start by gathering the ingredients: 1 1/2 cup black coffee (made in advance and cooled), 1 large frozen banana (cut into chunks), 1 cup ice cubes, 1/4 cup walnuts, 1 heaping Tbsp. unsweetened cocoa powder, and 6 Tbsp. chocolate protein powder. Add the cooled black coffee to the blender, followed by the frozen banana chunks, 1 cup of ice cubes, 1/4 cup of walnuts, 1 heaping Tbsp. of unsweetened cocoa powder, and 6 Tbsp. of chocolate protein powder. Put the lid on the blender and blend until the ingredients are smooth. If the smoothie is too thick, add more black coffee or water and blend again until the desired consistency is reached. Pour the smoothie into two glasses and enjoy the rich and creamy taste of this delicious smoothie. The combination of coffee, cocoa powder, and chocolate protein powder creates a bold and intense flavor, while the frozen banana and walnuts add a natural sweetness and crunch. This smoothie is perfect as a mid-day snack or a post-workout drink, as it provides a boost of energy and protein to help you power through your day.",
-      "rating": 5.0
+      "title": "Into the Wilderness",
+      "body": "Nature has a way of grounding us, reminding us of the beauty and simplicity that exists beyond the hustle and bustle of daily life. Join me on a journey into the wilderness, where towering trees, babbling brooks, and the rustle of leaves underfoot create a symphony of serenity. From the breathtaking vistas of mountain peaks to the hidden wonders of the forest floor, let's explore the great outdoors and reconnect with the natural world.",
+      "author": "naturelover",
+      "id": "5"
     },
     {
-      "id": 5,
-      "category": "Frutti",
-      "name": "Mango Madness Smoothie",
-      "description": "Take advantage of ripe mango’s disease-fighting ability with this delicious smoothie recipe.",
-      "price": 70,
-      "image": "https://hips.hearstapps.com/hmg-prod/images/281/static/20-mango-madness-comp-575865-1522248127.jpg?crop=0.602xw:1.00xh;0.0845xw,0&resize=980:*",
-      "image2": "https://getinspiredeveryday.com/wp-content/uploads/2023/03/Mango-Smoothie-Get-Inspired-Everyday-4-768x1152.jpg",
-      "recipe": "To make a refreshing and tropical smoothie, start by gathering the ingredients: 1 can of juice-packed pineapple chunks, 1 cup fat-free frozen vanilla yogurt, 1 large peeled and pitted mango, 1 ripe banana, and 4 cups of ice. Drain the juice from the can of pineapple chunks and add the pineapple chunks to the blender. Add 1 cup of fat-free frozen vanilla yogurt to the blender. Cut the large peeled and pitted mango into chunks and add them to the blender. Peel the ripe banana and add it to the blender. Put the lid on the blender and blend until the ingredients are smooth. Gradually add 4 cups of ice to the blender and continue blending until the entire mixture is pureed. If the smoothie is too thick, add more ice or water and blend again until the desired consistency is reached. Pour the smoothie into two glasses and enjoy the refreshing and tropical flavors of this delicious smoothie. The combination of pineapple, mango, and banana creates a sweet and tangy taste, while the frozen yogurt adds a creamy texture. This smoothie is perfect for a hot summer day or as a light and healthy breakfast.",
-      "rating": 4.9
+      "title": "The World of Technology",
+      "body": "In the rapidly advancing landscape of technology, innovation is the driving force that shapes our future. From artificial intelligence to virtual reality, this blog dives into the latest developments, trends, and breakthroughs in the world of technology. Join the conversation as we explore the impact of digital transformation on society, business, and our everyday lives.",
+      "author": "techenthusiast",
+      "id": "6"
     },
     {
-      "id": 6,
-      "category": "Frutti",
-      "trending": "trending",
-      "name": "Tutti-Frutti Smoothie",
-      "description": "A splash of orange juice infuses citrus into this healthy and refreshing snack.",
-      "price": 45,
-      "image": "https://hips.hearstapps.com/hmg-prod/images/glass-of-banana-and-mixed-berry-smoothie-royalty-free-image-1657809647.jpg?crop=1xw:0.93781xh;center,top&resize=980:*",
-      "image2": "https://todaysparent.mblycdn.com/tp/resized/2012/02/767x431/Tutti-frutti-smoothie-0-l.jpg",
-      "recipe": "To make a delicious and healthy smoothie, start by gathering the following ingredients: 1/2 cup mixed frozen berries, 1/2 cup canned crushed pineapple in juice, 1/2 cup plain yogurt, 1/2 cup sliced ripe banana, and 1/2 cup orange juice. Add the mixed frozen berries, crushed pineapple, plain yogurt, sliced banana, and orange juice to a blender. Put the lid on the blender and blend for about two minutes, or until the ingredients are smooth. If the smoothie is too thick, add more orange juice or water and blend again until the desired consistency is reached. Once the smoothie is smooth and the desired consistency has been achieved, pour it into a glass and enjoy immediately. This smoothie is perfect for breakfast, a snack, or any time of the day, and with the combination of frozen berries, pineapple, yogurt, banana, and orange juice, it is sure to be both flavorful and nutritious.",
-      "rating": 4.6
+      "title": "Musings on Music",
+      "body": "Music is a universal language that transcends boundaries and speaks to the soul. In this blog, we'll delve into the world of melodies, rhythms, and harmonies, exploring the diverse genres and artists that enrich our lives. From classical compositions to the latest chart-toppers, let's celebrate the power of music to evoke emotions, create memories, and connect us all.",
+      "author": "musiclover",
+      "id": "7"
     },
     {
-      "id": 7,
-      "category": "Frutti",
-      "fame": "popular",
-      "name": " Citrus-Pineapple Smoothie Bowl",
-      "description": "This smoothie bowl is a fun way to switch up your routine. It features vitamin C–rich citrus fruit, heart-healthy cashews, and gut-healthy Greek yogurt.",
-      "price": 40,
-      "image": "https://hips.hearstapps.com/hmg-prod/images/screen-shot-2020-10-07-at-3-27-44-pm-1602098865.png?crop=0.706xw:1.00xh;0.0884xw,0&resize=980:*",
-      "image2": "https://www.orchidsandsweettea.com/wp-content/uploads/2022/08/Orange-Pineapple-Chia-Smooothie-2-of-5-e1659345283139.jpg",
-      "recipe": "To prepare this delicious and healthy breakfast bowl, you will need the following ingredients: 1/2 cup fat-free Greek yogurt, 1/2 cup frozen pineapple chunks, 1 tsp vanilla extract, 1/2 navel orange (segmented), 1/2 ruby grapefruit (segmented), chia seeds, unsweetened coconut flakes, and chopped cashews.To make the bowl, start by adding 1/2 cup of fat-free Greek yogurt, 1/2 cup of frozen pineapple chunks, 1 tsp of vanilla extract, 1/2 segmented navel orange, and 1/2 segmented ruby grapefruit to a blender. Blend the mixture until it is smooth.Next, divide the mixture between two bowls. Top each bowl with more orange and grapefruit segments, chia seeds, unsweetened coconut flakes, and chopped cashews.your healthy and delicious breakfast bowl is now ready to serve. Enjoy the fresh and fruity flavors and the variety of textures that come from the chia seeds, coconut flakes, and chopped cashews. This breakfast bowl is perfect for starting your day off right with a nutritious and satisfying meal.",
-      "rating": 5.0
+      "title": "The Joy of Reading",
+      "body": "Books have the magical ability to transport us to different worlds, ignite our imagination, and broaden our perspectives. Join me on a literary journey through the pages of captivating novels, thought-provoking essays, and timeless classics. From fiction to non-fiction, let's explore the joy of reading and the impact it has on our minds and hearts.",
+      "author": "bookworm",
+      "id": "8"
     },
     {
-      "id": 8,
-      "category": "Creamey",
-      "isNew": "true",
-
-      "name": "Peaches and Cream Oatmeal Smoothie",
-      "description": "No time for a leisurely meal? Try this grab-and-go, probiotic-rich take on morning oatmeal. Whole-grain oats contain prebiotic fiber that promotes gut health.",
-      "price": 30,
-      "image": "https://hips.hearstapps.com/hmg-prod/images/screen-shot-2020-10-07-at-4-07-00-pm-1602101238.png?crop=0.815xw:1.00xh;0.104xw,0&resize=980:*",
-      "image2": "https://www.favfamilyrecipes.com/wp-content/uploads/2018/08/Peaches-and-Cream-Oatmeal-Smoothie-3.jpg",
-      "recipe": "To make a refreshing and nutritious smoothie, gather the following ingredients: 1/2 cup whole milk, 1/2 cup Greek yogurt, 1/2 cup rolled oats, 1 cup frozen peaches, 1/2 frozen banana, and 1/2 cup ice. Add 1/2 cup of whole milk, 1/2 cup of rolled oats, 1 cup of frozen peaches, 1/2 frozen banana, and 1/2 cup of ice to a blender. Blend the mixture to the desired thickness. Pour the smoothie into a glass and enjoy the sweet and creamy flavors of the peaches and banana, balanced with the wholesome oats and creamy Greek yogurt. This smoothie is perfect for breakfast or as a snack, and it provides a good source of protein, fiber, and vitamins.",
-      "rating": 3.9
+      "title": "Fitness for Life",
+      "body": "Physical fitness is not just a goal; it's a lifestyle that contributes to overall well-being. In this blog, we'll explore the realms of exercise, nutrition, and mental health, discovering the keys to a healthy and fulfilling life. Whether you're a fitness enthusiast or a beginner on the wellness journey, let's embark on a path to vibrant health and longevity together.",
+      "author": "fitandhappy",
+      "id": "9"
     },
     {
-      "id": 9,
-      "category": "Frutti",
-      "name": "Tropical Papaya Perfection Smoothie",
-      "description": "This coconut-infused breakfast smoothie tastes just as decadent as a milkshake. One sip will immediately transport you to a tropical island.",
-      "price": 80,
-      "image": "https://hips.hearstapps.com/hmg-prod/images/papaya-smoothie-selective-focus-detox-diet-food-royalty-free-image-1603590072.jpg?crop=0.741xw:0.926xh;0.116xw,0.0621xh&resize=980:*",
-      "image2": "https://www.thetastybiteblog.com/wp-content/uploads/2015/02/tropical-papaya-smoothie-31-683x1024.jpg",
-      "recipe": "This papaya smoothie recipe is a perfect way to start your day. Gather the following ingredients: 1 papaya, 1 cup of fat-free, plain yogurt, 1/2 cup fresh pineapple chunks, 1/2 cup crushed ice, 1 tsp. coconut extract, and 1 tsp. ground flaxseed. Cut the papaya in half, remove the seeds, and cut the flesh into chunks. Add the papaya chunks, 1 cup of fat-free, plain yogurt, 1/2 cup fresh pineapple chunks, 1/2 cup crushed ice, 1 tsp. coconut extract, and 1 tsp. ground flaxseed to a blender. Process the mixture for about 30 seconds or until it's smooth and frosty. Taste the smoothie and adjust the sweetness or thickness to your liking by adding more ice or coconut extract if needed. Pour the smoothie into a glass, garnish it with a slice of fresh pineapple or a sprinkle of ground flaxseed, and serve. The tropical flavors of papaya and pineapple are complemented by the creaminess of yogurt and the nuttiness of flaxseed. This smoothie is not only delicious but also a great source of vitamins, fiber, and antioxidants.",
-      "rating": 3.7
-    },
-    {
-      "id": 10,
-      "category": "Frutti",
-      "name": "Pineapple Passion Smoothie",
-      "description": "This decadently thick smoothie recipe will satisfy your cravings for an ice cream cone. Plus, pineapple contains bromelain, an enzyme that helps break down protein and may help reduce bloating.",
-      "price": 80,
-      "image": "https://hips.hearstapps.com/hmg-prod/images/tropical-fruit-juice-or-smoothie-in-bottle-royalty-free-image-1603585526.jpg?crop=1.00xw:0.835xh;0,0.0613xh&resize=980:*",
-      "image2": "https://delightfulplate.com/wp-content/uploads/2019/01/Tropical-Pineapple-Mango-Smoothie-768x1152.jpg",
-      "recipe":"To make a delicious pineapple yogurt smoothie, start by gathering the ingredients: 1 cup of low-fat or light vanilla yogurt, six ice cubes, and 1 cup of pineapple chunks. Next, place the yogurt, ice cubes, and pineapple chunks into a blender. Pulse the mixture until it is smooth, making sure to stop the blender and stir the ingredients if necessary to ensure even blending. Once the smoothie is smooth and frosty, pour it into a glass and enjoy it cold. ",
-      "rating": 3.9
+      "title": "Adventures in Travel",
+      "body": "Traveling opens doors to new cultures, landscapes, and experiences that shape our perspectives and enrich our lives. Join me on a virtual journey to fascinating destinations around the globe, from bustling metropolises to serene natural wonders. Through vivid narratives and travel tips, let's embark on adventures that inspire wanderlust and encourage exploration.",
+      "author": "wanderer",
+      "id": "10"
     }
-
   ]
 }
